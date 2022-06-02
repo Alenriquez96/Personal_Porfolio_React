@@ -1,0 +1,25 @@
+#social>img{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+#social{
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#socialCointainer{
+    height: 100%;
+    width: 50px;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}

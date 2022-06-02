@@ -1,7 +1,9 @@
 import React from "react";
 
 const Biography = () => {
-  return <div>Biography</div>;
+  return (
+    <div></div>
+  )
 };
 
 export default Biography;
